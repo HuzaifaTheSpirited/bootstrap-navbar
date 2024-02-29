@@ -1,0 +1,84 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    background-color: rgb(54, 40, 177);
+    height: 70px;
+    align-items: center;
+}
+.img1{
+    width: 60px;
+    margin-top: 13px;
+    height: 50px;
+    margin-left: 110px;
+}
+.doc{
+    color: aliceblue;
+    margin-left: 30px;
+    cursor: pointer;
+    }
+.exm{
+    color: aliceblue;
+    margin-left: 35px;
+    cursor: pointer;
+}
+.ico{
+    color: aliceblue;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.theme{
+    color: aliceblue;
+    margin-left: 30px;
+    cursor: pointer;
+   }
+.blo{
+color: aliceblue;
+margin-left: 30px;
+cursor: pointer;
+}
+.input{
+    margin-left: 180px;
+    font-weight: bold;
+    border: transparent;
+}
+.img2{
+    width: 20px;
+    margin-left: 180px;
+}
+.img3{
+    width: 20px;
+    margin-left: 30px;
+}
+.img4{ width: 20px;
+    margin-left: 30px;
+
+}
+#version{
+    margin-left: 100px;
+}
+#version2{
+    margin-left: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
